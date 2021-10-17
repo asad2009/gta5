@@ -1,0 +1,27 @@
+#gta{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    animation: alternate-reverse;
+    font-style: oblique;
+}
+#aboutgta{
+font-family: cursive;
+color: rgb(255, 255, 255);
+font-size: xx-large;
+}
+#ll{
+    font-size: xx-large;
+    font-family: monospace;
+    color: red;
+    
+}
+body{
+    background-image:url(https://wallpapercave.com/wp/wp1809623.jpg);
+}
+#g{
+    font-weight: bolder;
+    font-size: xx-large;
+    font-style: oblique;
+    color: rgb(27, 7, 49);
+}
